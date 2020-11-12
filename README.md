@@ -20,10 +20,20 @@
 - [`Karma` - Test on Real Devices, Testing Framework Agnostic](https://karma-runner.github.io/latest/index.html)
 - [`QUnit` - Easy-to-use JavaScript testing framework](https://qunitjs.com/)
 
-## 🌈 Design system / UI Kit
+## 🌈 Design System / UI Kit
 - [`Material-UI` - React components for faster and easier web development](https://material-ui.com/)
 - [`Tailwindcss` - A utility-first CSS framework](https://tailwindcss.com/)
 - [`Bulma` - CSS framework based on Flexbox](https://bulma.io/)
 - [`Chakra-UI` - Build accessible React apps & websites with speed](https://chakra-ui.com/)
 - [`Bootstrap` - Build fast, responsive sites with Bootstrap](https://getbootstrap.com/)
 - [`Milligram` - A minimalist CSS framework](https://milligram.io/)
+- [`Semantic-UI` - User Interface is the language of the web](https://semantic-ui.com/)
+- [`UIKit` - A lightweight and modular front-end framework](https://getuikit.com/)
+- [`Materialize` - Responsive front-end framework based on Material Design](https://materializecss.com/)
+- [`Skeleton` - A dead simple, responsive boilerplate](http://getskeleton.com/)
+- [`Foundation` - The most advanced responsive front-end framework](https://get.foundation/)
+- [`Susy` - Susy was a responsive layout engine for Sass, before flexbox and CSS grid were available](https://www.oddbird.net/susy/)
+- [`Purecss` - A set of small, responsive CSS modules](https://purecss.io/)
+- [`Picnicss` - Lightweight and beautiful library](https://picnicss.com/)
+- [`Papercss` - The less formal CSS framework](https://www.getpapercss.com/)
+- [`Animatecss` - Just-add-water CSS animations](https://animate.style/)
