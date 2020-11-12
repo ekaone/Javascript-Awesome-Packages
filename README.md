@@ -81,14 +81,23 @@
 - [`Hapi` - The Simple, Secure Framework Developers Trust](https://hapi.dev/)
 - [`Nodemailer` - Nodemailer is a module for Node.js applications to allow easy as cake email sending](https://nodemailer.com/about/)
 - [`Morgan` - HTTP request logger middleware for node.js](https://github.com/expressjs/morgan)
+- [`Restify` - Node.js REST development](http://restify.com/)
 
 ## 🔐 Security
 - [`Passport` - Simple, unobtrusive authentication for Node.js](http://www.passportjs.org/)
 - [`JSON Web Token` - Standard RFC 7519 method for representing claims securely between two parties](https://jwt.io/)
 
 
-## 🗄 Database
+## 🗄 Database ORM and Query Builder
 - [`TypeORM` - TypeORM is an ORM that can run in NodeJS, Browser, Cordova, PhoneGap, Ionic, React Native](https://typeorm.io/)
+- [`Prisma` - Modern Database Access for TypeScript & Node.js](https://www.prisma.io/)
+- [`Objectionjs` - An SQL-friendly ORM for Node.js](https://vincit.github.io/objection.js/)
+- [`Knexjs` - SQL query builder for Postgres, MSSQL, MySQL, MariaDB, SQLite3, Oracle, and Amazon Redshift](http://knexjs.org/)
+- [`Sequelize` - promise-based Node.js ORM for Postgres, MySQL, MariaDB, SQLite and Microsoft SQL Server](https://sequelize.org/)
+- [`Sails ` - Any database, Auto-generated REST APIs, Easy WebSocket integration etc](https://sailsjs.com/)
+- [`Bookshelfjs` - JavaScript ORM for Node.js, built on the Knex](https://bookshelfjs.org/)
+- [`Mongoosejs` - Elegant mongodb object modeling for node.js](https://mongoosejs.com/)
+- [`Mikro-orm` - TypeScript ORM for Node.js based on Data Mapper](https://mikro-orm.io/)
 
 ## 💻 Command Line Interface (CLI)
 - [`Commanderjs` - The complete solution for node.js command-line interfaces.](https://github.com/tj/commander.js)
