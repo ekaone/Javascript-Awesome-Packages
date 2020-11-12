@@ -21,6 +21,8 @@
 - [`Lodash` - JavaScript utility library delivering modularity, performance & extras](https://lodash.com/)
 - [`Underscore` - JavaScript library that provides a whole mess of useful functional programming](https://underscorejs.org/)
 - [`Joi` - The most powerful schema description language and data validator for JavaScript](https://github.com/sideway/joi)
+- [`Fusejs` - Fuse.js is a powerful, lightweight fuzzy-search library, with zero dependencies](https://fusejs.io/)
+- [`React Table` - Data tables for React](https://react-table.tanstack.com/)
 - [`React Hook Form` - Performant, flexible and extensible forms with easy-to-use validation](https://react-hook-form.com/)
 - [`Formik` - Form library for React and React Native](https://formik.org/)
 - [`Redux Form` - Manage your form state in Redux](https://redux-form.com/)
@@ -33,6 +35,10 @@
 - [`Sugar` - Javascript utility library for working with native objects](https://sugarjs.com/)
 - [`Browserify` - Browserify lets you require('modules') in the browser](http://browserify.org/)
 - [`Clusterizejs` - Tiny plugin to display large data sets easily](https://clusterize.js.org/)
+- [`React DnD` - Beautiful and accessible drag and drop for lists with React](https://github.com/atlassian/react-beautiful-dnd)
+- [`React-use` - Collection of React Hooks](https://github.com/streamich/react-use)
+- [`React-dropzone` - Drag'n'drop zone for files](https://react-dropzone.js.org/)
+- [`Revealjs` - Create Stunning Presentations on the Web](https://revealjs.com/)
 
 
 ## 🌈 Design System / UI Kit
