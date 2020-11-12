@@ -40,6 +40,12 @@
 - [`React-use` - Collection of React Hooks](https://github.com/streamich/react-use)
 - [`React-dropzone` - Drag'n'drop zone for files](https://react-dropzone.js.org/)
 - [`Revealjs` - Create Stunning Presentations on the Web](https://revealjs.com/)
+- [`Chalk` - Terminal string styling done right](https://github.com/chalk/chalk)
+- [`Axios` - Promise based HTTP client for the browser and node.js](https://github.com/axios/axios)
+- [`Swr` - React Hooks library for data fetching](https://swr.vercel.app/)
+- [`React Query` - Performant and powerful data synchronization for React](https://react-query.tanstack.com/)
+- [`Unfetch` - Bare minimum 500b fetch polyfill](https://github.com/developit/unfetch)
+- [`Node-fetch` - A light-weight module that brings Fetch API to Node.js](https://github.com/node-fetch/node-fetch)
 
 ## 🌈 Design System / UI Kit
 - [`Material-UI` - React components for faster and easier web development](https://material-ui.com/)
@@ -109,7 +115,13 @@
 - [`Hapi` - The Simple, Secure Framework Developers Trust](https://hapi.dev/)
 - [`Nodemailer` - Nodemailer is a module for Node.js applications to allow easy as cake email sending](https://nodemailer.com/about/)
 - [`Morgan` - HTTP request logger middleware for node.js](https://github.com/expressjs/morgan)
+- [`Dotenv` - Loads environment variables from .env for nodejs projects](https://github.com/motdotla/dotenv)
+- [`Fakerjs` - Generate massive amounts of realistic fake data in Node.js and the browser](https://github.com/marak/Faker.js/)
+- [`Multer` - Node.js middleware for handling multipart/form-data](https://github.com/expressjs/multer)
 - [`Restify` - Node.js REST development](http://restify.com/)
+- [`Http-errors` - Create HTTP Errors](https://github.com/jshttp/http-errors)
+- [`Cors` - Node.js CORS middleware](https://github.com/expressjs/cors)
+- [`Body-parser` - Node.js body parsing middleware](https://github.com/expressjs/body-parser)
 
 ## 🔐 Security
 - [`Passport` - Simple, unobtrusive authentication for Node.js](http://www.passportjs.org/)
