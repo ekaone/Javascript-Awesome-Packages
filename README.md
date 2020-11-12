@@ -86,6 +86,8 @@
 ## 🔐 Security
 - [`Passport` - Simple, unobtrusive authentication for Node.js](http://www.passportjs.org/)
 - [`JSON Web Token` - Standard RFC 7519 method for representing claims securely between two parties](https://jwt.io/)
+- [`Helmet` - Express.js security with HTTP headers](https://helmetjs.github.io/)
+- [`Cryptojs` - JavaScript library of crypto standards](https://github.com/brix/crypto-js)
 
 
 ## 🗄 Database ORM and Query Builder
@@ -100,4 +102,7 @@
 - [`Mikro-orm` - TypeScript ORM for Node.js based on Data Mapper](https://mikro-orm.io/)
 
 ## 💻 Command Line Interface (CLI)
-- [`Commanderjs` - The complete solution for node.js command-line interfaces.](https://github.com/tj/commander.js)
+- [`Commanderjs` - The complete solution for node.js command-line interfaces](https://github.com/tj/commander.js)
+- [`Oclif` - Create command line tools your users love](https://oclif.io/)
+- [`Hygen` - The scalable code generator that saves you time](http://www.hygen.io/)
+- 
