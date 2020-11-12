@@ -40,12 +40,14 @@
 - [`React-dropzone` - Drag'n'drop zone for files](https://react-dropzone.js.org/)
 - [`Revealjs` - Create Stunning Presentations on the Web](https://revealjs.com/)
 
-
 ## 🌈 Design System / UI Kit
 - [`Material-UI` - React components for faster and easier web development](https://material-ui.com/)
 - [`Tailwindcss` - A utility-first CSS framework](https://tailwindcss.com/)
 - [`Bulma` - CSS framework based on Flexbox](https://bulma.io/)
 - [`Chakra-UI` - Build accessible React apps & websites with speed](https://chakra-ui.com/)
+- [`Styled components` - Visual primitives for the component age](https://styled-components.com/)
+- [`Sass-lang` - Sass is the most mature, stable, and powerful professional grade CSS](https://sass-lang.com/)
+- [`Styled-system` - Style props for rapid UI development](https://styled-system.com/)
 - [`Bootstrap` - Build fast, responsive sites with Bootstrap](https://getbootstrap.com/)
 - [`Milligram` - A minimalist CSS framework](https://milligram.io/)
 - [`Semantic-UI` - User Interface is the language of the web](https://semantic-ui.com/)
@@ -57,7 +59,6 @@
 - [`Purecss` - A set of small, responsive CSS modules](https://purecss.io/)
 - [`Picnicss` - Lightweight and beautiful library](https://picnicss.com/)
 - [`Papercss` - The less formal CSS framework](https://www.getpapercss.com/)
-- [`Animatecss` - Just-add-water CSS animations](https://animate.style/)
 
 ## 📈 Chart
 - [`Chartjs` - Simple yet flexible JavaScript charting for designers & developers](https://www.chartjs.org/)
@@ -93,6 +94,7 @@
 - [`React-typed` - A react wrapper for typed.js](https://github.com/ssbeefeater/react-typed)
 - [`Kutejs` - Developed with latest technology and modular design](https://thednp.github.io/kute.js/index.html)
 - [`Spicr` -  Component featuring multi-layer slider and carousel](https://thednp.github.io/spicr/)
+- [`Animatecss` - Just-add-water CSS animations](https://animate.style/)
 
 ## 🖥 Server
 - [`Expressjs` - Fast, unopinionated, minimalist web framework for Node.js](https://expressjs.com/)
