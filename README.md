@@ -11,7 +11,6 @@
 - [`Chai` - BDD / TDD assertion library for node and the browser](https://www.chaijs.com/)
 - [`Testing Library` - Simple and complete testing utilities](https://testing-library.com/)
 - [`Cypress` - Fast, easy and reliable testing for anything that runs in a browser](https://www.cypress.io/)
-- [`Puppeteer` - provides a high-level API to control Chrome or Chromium over the DevTools Protocol](https://pptr.dev/)
 - [`Nightwatch.js` - End-to-end testing, the easy way](https://nightwatchjs.org/)
 - [`Jasmine` - Behavior-Driven JavaScript](https://jasmine.github.io/)
 - [`Mocha` - feature-rich JavaScript test framework running on Node.js and in the browser](https://mochajs.org/)
@@ -32,6 +31,7 @@
 - [`Momentsjs` - Parse, validate, manipulate, and display dates and times in JavaScript](https://momentjs.com/)
 - [`Luxon` - A powerful, modern, and friendly wrapper for Javascript dates and times](https://moment.github.io/luxon/)
 - [`Sugar` - Javascript utility library for working with native objects](https://sugarjs.com/)
+- [`Browserify` - Browserify lets you require('modules') in the browser](http://browserify.org/)
 
 
 ## 🌈 Design System / UI Kit
@@ -73,3 +73,22 @@
 ## 🖥 Server
 - [`Expressjs` - Fast, unopinionated, minimalist web framework for Node.js](https://expressjs.com/)
 - [`PM2` - PM2 is a daemon process manager that will help you manage and keep your application online 24/7](https://pm2.keymetrics.io/)
+- [`Async ` - Async is a utility module JavaScript](http://caolan.github.io/async/)
+- [`Grunt ` - JavaScript Task Runner](https://gruntjs.com/)
+- [`Socketio ` - Realtime engine](https://socket.io/)
+- [`Cheerio ` - Fast, flexible, and lean implementation of core jQuery designed specifically for the server](https://cheerio.js.org/)
+- [`Puppeteer` - Provides a high-level API to control Chrome or Chromium over the DevTools Protocol](https://pptr.dev/)
+- [`Hapi` - The Simple, Secure Framework Developers Trust](https://hapi.dev/)
+- [`Nodemailer` - Nodemailer is a module for Node.js applications to allow easy as cake email sending](https://nodemailer.com/about/)
+- [`Morgan` - HTTP request logger middleware for node.js](https://github.com/expressjs/morgan)
+
+## 🔐 Security
+- [`Passport` - Simple, unobtrusive authentication for Node.js](http://www.passportjs.org/)
+- [`JSON Web Token` - Standard RFC 7519 method for representing claims securely between two parties](https://jwt.io/)
+
+
+## 🗄 Database
+- [`TypeORM` - TypeORM is an ORM that can run in NodeJS, Browser, Cordova, PhoneGap, Ionic, React Native](https://typeorm.io/)
+
+## 💻 Command Line Interface (CLI)
+- [`Commanderjs` - The complete solution for node.js command-line interfaces.](https://github.com/tj/commander.js)
