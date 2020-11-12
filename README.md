@@ -22,6 +22,16 @@
 - [`Lodash` - JavaScript utility library delivering modularity, performance & extras](https://lodash.com/)
 - [`Underscore` - JavaScript library that provides a whole mess of useful functional programming](https://underscorejs.org/)
 - [`Joi` - The most powerful schema description language and data validator for JavaScript](https://github.com/sideway/joi)
+- [`React Hook Form` - Performant, flexible and extensible forms with easy-to-use validation](https://react-hook-form.com/)
+- [`Formik` - Form library for React and React Native](https://formik.org/)
+- [`Redux Form` - Manage your form state in Redux](https://redux-form.com/)
+- [`React Table` - Lightweight and extensible data tables for React](https://react-table.tanstack.com/)
+- [`Date-fns` - Modern JavaScript date utility library](https://date-fns.org/)
+- [`Dayjs` - Fast 2kB alternative to Moment.js with the same modern API](https://day.js.org/)
+- [`Mathjs` - An extensive math library for JavaScript and Node.js](https://mathjs.org/)
+- [`Momentsjs` - Parse, validate, manipulate, and display dates and times in JavaScript](https://momentjs.com/)
+- [`Luxon` - A powerful, modern, and friendly wrapper for Javascript dates and times](https://moment.github.io/luxon/)
+- [`Sugar` - Javascript utility library for working with native objects](https://sugarjs.com/)
 
 
 ## 🌈 Design System / UI Kit
