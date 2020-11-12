@@ -32,6 +32,7 @@
 - [`Luxon` - A powerful, modern, and friendly wrapper for Javascript dates and times](https://moment.github.io/luxon/)
 - [`Sugar` - Javascript utility library for working with native objects](https://sugarjs.com/)
 - [`Browserify` - Browserify lets you require('modules') in the browser](http://browserify.org/)
+- [`Clusterizejs` - Tiny plugin to display large data sets easily](https://clusterize.js.org/)
 
 
 ## 🌈 Design System / UI Kit
@@ -70,9 +71,27 @@
 - [`Amcharts` - JavaScript Charts & Maps](https://www.amcharts.com/)
 - [`Zingchart` - 50+ built-in chart types & modules](https://www.zingchart.com/)
 
+## 🌱 Animation
+- [`React-spring` - components to life with simple spring animation primitives](https://www.react-spring.io/)
+- [`Framer Motion` - A production-ready motion library for React](https://www.framer.com/motion/)
+- [`Greensock` - Professional-grade JavaScript animation for the modern web](https://greensock.com/gsap/)
+- [`React-gsap` - react-gsap lets you use the GreenSock Animation Platform (GSAP) in React](https://bitworking.github.io/react-gsap/)
+- [`Animejs` - Anime.js is a lightweight JavaScript animation library with a simple, yet powerful API](https://animejs.com/)
+- [`Threejs` - 3D animations on the browser, using WebGL in an intuitive way](https://threejs.org/)
+- [`Mojs` - Screen density independent effects look good on any device](https://mojs.github.io/)
+- [`Swiperjs` -  Touch slider with hardware accelerated transitions](https://swiperjs.com/)
+- [`Popmotion` - The animate function is less than 5kb, and every utility function is individually importable](https://popmotion.io/)
+- [`ScrollReveal` - Easily animating elements as they enter/leave the viewport](https://scrollrevealjs.org/)
+- [`HoverCss` - CSS3 powered hover effects](http://ianlunn.github.io/Hover/)
+- [`Typedjs` - Type your heart out, with Typed.js](https://mattboldt.com/demos/typed-js/)
+- [`React-typed` - A react wrapper for typed.js](https://github.com/ssbeefeater/react-typed)
+- [`Kutejs` - Developed with latest technology and modular design](https://thednp.github.io/kute.js/index.html)
+- [`Spicr` -  Component featuring multi-layer slider and carousel](https://thednp.github.io/spicr/)
+
 ## 🖥 Server
 - [`Expressjs` - Fast, unopinionated, minimalist web framework for Node.js](https://expressjs.com/)
 - [`PM2` - PM2 is a daemon process manager that will help you manage and keep your application online 24/7](https://pm2.keymetrics.io/)
+- [`Grpc` - Universal RPC framework](https://grpc.io/)
 - [`Async ` - Async is a utility module JavaScript](http://caolan.github.io/async/)
 - [`Grunt ` - JavaScript Task Runner](https://gruntjs.com/)
 - [`Socketio ` - Realtime engine](https://socket.io/)
