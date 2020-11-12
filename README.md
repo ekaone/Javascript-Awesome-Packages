@@ -1,9 +1,11 @@
 ## State Management
 
 - 🚦 [`Zustand` - A small, fast and scaleable bearbones state-management solution](https://zustand.surge.sh/)
+- 🚦 [`Recoil` - Data-Flow Graph and Cross-App Observation](https://recoiljs.org/)
 - 🚦 [`Xstate` - JavaScript and TypeScript finite state machines and statecharts for the modern web](https://xstate.js.org/)
-- 🚦 [`MobX` - simple and scalable applying functional reactive programming (TFRP)](https://mobx.js.org/README.html)
+- 🚦 [`MobX` - Simple and scalable applying functional reactive programming (TFRP)](https://mobx.js.org/README.html)
 - 🚦 [`Redux` - A Predictable State Container for JS Apps](https://redux.js.org/)
+- 🚦 [`Pullstate` - Simple state stores, retrieval anywhere in your React tree using hooks](https://lostpebble.github.io/pullstate/)
 
 ## Testing
 
