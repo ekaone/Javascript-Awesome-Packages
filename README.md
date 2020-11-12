@@ -72,3 +72,4 @@
 
 ## 🖥 Server
 - [`Expressjs` - Fast, unopinionated, minimalist web framework for Node.js](https://expressjs.com/)
+- [`PM2` - PM2 is a daemon process manager that will help you manage and keep your application online 24/7](https://pm2.keymetrics.io/)
