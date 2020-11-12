@@ -22,6 +22,7 @@
 - [`Underscore` - JavaScript library that provides a whole mess of useful functional programming](https://underscorejs.org/)
 - [`Joi` - The most powerful schema description language and data validator for JavaScript](https://github.com/sideway/joi)
 - [`Fusejs` - Fuse.js is a powerful, lightweight fuzzy-search library, with zero dependencies](https://fusejs.io/)
+- [`Miragejs` - Create your API on your Frontend](https://miragejs.com/)
 - [`React Table` - Data tables for React](https://react-table.tanstack.com/)
 - [`React Hook Form` - Performant, flexible and extensible forms with easy-to-use validation](https://react-hook-form.com/)
 - [`Formik` - Form library for React and React Native](https://formik.org/)
