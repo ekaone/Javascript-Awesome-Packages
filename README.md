@@ -1,4 +1,4 @@
-## 🚦 State Management 🚦
+## 🚦 State Management
 
 - [`Zustand` - A small, fast and scaleable bearbones state-management solution](https://zustand.surge.sh/)
 - [`Recoil` - Data-Flow Graph and Cross-App Observation](https://recoiljs.org/)
@@ -7,7 +7,7 @@
 - [`Redux` - A Predictable State Container for JS Apps](https://redux.js.org/)
 -  [`Pullstate` - Simple state stores, retrieval anywhere in your React tree using hooks](https://lostpebble.github.io/pullstate/)
 
-## 🧪 Testing 🧪
+## 🧪 Testing
 
 - [`Jest` - Delightful JavaScript Testing Framework with a focus on simplicity](https://jestjs.io/)
 - [`Chai` - BDD / TDD assertion library for node and the browser](https://www.chaijs.com/)
@@ -20,5 +20,10 @@
 - [`Karma` - Test on Real Devices, Testing Framework Agnostic](https://karma-runner.github.io/latest/index.html)
 - [`QUnit` - Easy-to-use JavaScript testing framework](https://qunitjs.com/)
 
-## 🌈 Design system / UI Kit 🌈
+## 🌈 Design system / UI Kit
 - [`Material-UI` - React components for faster and easier web development](https://material-ui.com/)
+- [`Tailwindcss` - A utility-first CSS framework](https://tailwindcss.com/)
+- [`Bulma` - CSS framework based on Flexbox](https://bulma.io/)
+- [`Chakra-UI` - Build accessible React apps & websites with speed](https://chakra-ui.com/)
+- [`Bootstrap` - Build fast, responsive sites with Bootstrap](https://getbootstrap.com/)
+- [`Milligram` - A minimalist CSS framework](https://milligram.io/)
