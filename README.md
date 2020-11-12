@@ -5,6 +5,7 @@
 - [`MobX` - Simple and scalable applying functional reactive programming (TFRP)](https://mobx.js.org/README.html)
 - [`Redux` - A Predictable State Container for JS Apps](https://redux.js.org/)
 - [`Pullstate` - Simple state stores, retrieval anywhere in your React tree using hooks](https://lostpebble.github.io/pullstate/)
+- [`Jōtai` - Primitive and flexible state management for React](https://jotai.surge.sh/)
 
 ## 🧪 Testing
 - [`Jest` - Delightful JavaScript Testing Framework with a focus on simplicity](https://jestjs.io/)
@@ -46,6 +47,7 @@
 - [`React Query` - Performant and powerful data synchronization for React](https://react-query.tanstack.com/)
 - [`Unfetch` - Bare minimum 500b fetch polyfill](https://github.com/developit/unfetch)
 - [`Node-fetch` - A light-weight module that brings Fetch API to Node.js](https://github.com/node-fetch/node-fetch)
+- [`React Gesture` - Utility for component-tied mouse/touch gestures in React](https://github.com/pmndrs/react-use-gesture)
 
 ## 🌈 Design System / UI Kit
 - [`Material-UI` - React components for faster and easier web development](https://material-ui.com/)
