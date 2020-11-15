@@ -49,6 +49,7 @@
 - [`Node-fetch` - A light-weight module that brings Fetch API to Node.js](https://github.com/node-fetch/node-fetch)
 - [`React Gesture` - Utility for component-tied mouse/touch gestures in React](https://github.com/pmndrs/react-use-gesture)
 - [`React Fullpage` - Create fullpage with easy, React.js wrapper for fullPage.js](https://github.com/alvarotrigo/react-fullpage)
+- [`Yeoman` - Yeoman helps you to kickstart new projects, prescribing best practices and tools](https://yeoman.io/)
 
 ## 🌈 Design System / UI Kit
 - [`Material-UI` - React components for faster and easier web development](https://material-ui.com/)
