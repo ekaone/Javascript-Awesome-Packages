@@ -133,6 +133,7 @@
 ## 🔐 Security
 - [`Passport` - Simple, unobtrusive authentication for Node.js](http://www.passportjs.org/)
 - [`JSON Web Token` - Standard RFC 7519 method for representing claims securely between two parties](https://jwt.io/)
+- [`Accountsjs` - Fullstack authentication and accounts-management for Javascript](https://www.accountsjs.com/)
 - [`Helmet` - Express.js security with HTTP headers](https://helmetjs.github.io/)
 - [`Cryptojs` - JavaScript library of crypto standards](https://github.com/brix/crypto-js)
 
