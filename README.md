@@ -6,6 +6,7 @@
 - [`Redux` - A Predictable State Container for JS Apps](https://redux.js.org/)
 - [`Pullstate` - Simple state stores, retrieval anywhere in your React tree using hooks](https://lostpebble.github.io/pullstate/)
 - [`Jōtai` - Primitive and flexible state management for React](https://jotai.surge.sh/)
+- [`Valtio` - Valtio makes proxy-state simple for React and Vanilla](https://github.com/pmndrs/valtio)
 
 ## 🧪 Testing
 - [`Jest` - Delightful JavaScript Testing Framework with a focus on simplicity](https://jestjs.io/)
