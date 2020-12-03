@@ -18,6 +18,7 @@
 - [`Mocha` - feature-rich JavaScript test framework running on Node.js and in the browser](https://mochajs.org/)
 - [`Karma` - Test on Real Devices, Testing Framework Agnostic](https://karma-runner.github.io/latest/index.html)
 - [`QUnit` - Easy-to-use JavaScript testing framework](https://qunitjs.com/)
+- [`Testcafe` - A Node.js tool to automate end-to-end web testing](https://devexpress.github.io/testcafe/)
 
 ## 🛠 Utilities
 - [`Lodash` - JavaScript utility library delivering modularity, performance & extras](https://lodash.com/)
