@@ -122,6 +122,10 @@
 - [`Pug` - Pug – robust, elegant, feature rich template engine for Node.js](https://pugjs.org/api/getting-started.html)
 - [`Hogan.js` - JavaScript templating from Twitter](https://twitter.github.io/hogan.js/)
 - [`Swig` - A simple, powerful, and extendable JavaScript Template Engine](https://node-swig.github.io/swig-templates/)
+- [`Marko.js` - Bringing back progressive HTML rendering to the masses](https://markojs.com/)
+- [`Jade` - Node Template Engine](https://jade-lang.com/)
+- [`JsRender` - Simple and intuitive, powerful and extensible, lightning fast](https://www.jsviews.com/#jsrender)
+- [`SquirrellyJS` - Powerful, lightweight, pluggable JS template engine](https://squirrelly.js.org/)
 
 ## 🖥 Server
 - [`Expressjs` - Fast, unopinionated, minimalist web framework for Node.js](https://expressjs.com/)
