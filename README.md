@@ -112,6 +112,17 @@
 - [`Spicr` -  Component featuring multi-layer slider and carousel](https://thednp.github.io/spicr/)
 - [`Animatecss` - Just-add-water CSS animations](https://animate.style/)
 
+## ⛺ Template Engine
+- [`Liquidjs` - A simple, expressive and safe template engine](https://liquidjs.com/)
+- [`Mustache.js` - Minimal templating with {{mustaches}} in JavaScript](https://github.com/janl/mustache.js)
+- [`Handlebars` - Minimal templating on steroids](https://handlebarsjs.com/)
+- [`Ejs` - Embedded JavaScript templating](https://ejs.co/)
+- [`Nunjucks` - A rich and powerful templating language for JavaScript](https://mozilla.github.io/nunjucks/)
+- [`doT.js` - Concise javascript template engine for Node.js and browsers](https://olado.github.io/doT/)
+- [`Pug` - Pug – robust, elegant, feature rich template engine for Node.js](https://pugjs.org/api/getting-started.html)
+- [`Hogan.js` - JavaScript templating from Twitter](https://twitter.github.io/hogan.js/)
+- [`Swig` - A simple, powerful, and extendable JavaScript Template Engine](https://node-swig.github.io/swig-templates/)
+
 ## 🖥 Server
 - [`Expressjs` - Fast, unopinionated, minimalist web framework for Node.js](https://expressjs.com/)
 - [`PM2` - PM2 is a daemon process manager that will help you manage and keep your application online 24/7](https://pm2.keymetrics.io/)
