@@ -1,4 +1,5 @@
 ## 🚦 State Management
+
 - [`Zustand` - A small, fast and scaleable bearbones state-management solution](https://zustand.surge.sh/)
 - [`Recoil` - Data-Flow Graph and Cross-App Observation](https://recoiljs.org/)
 - [`Xstate` - JavaScript and TypeScript finite state machines and statecharts for the modern web](https://xstate.js.org/)
@@ -9,6 +10,7 @@
 - [`Valtio` - Valtio makes proxy-state simple for React and Vanilla](https://github.com/pmndrs/valtio)
 
 ## 🧪 Testing
+
 - [`Jest` - Delightful JavaScript Testing Framework with a focus on simplicity](https://jestjs.io/)
 - [`Chai` - BDD / TDD assertion library for node and the browser](https://www.chaijs.com/)
 - [`Testing Library` - Simple and complete testing utilities](https://testing-library.com/)
@@ -21,6 +23,7 @@
 - [`Testcafe` - A Node.js tool to automate end-to-end web testing](https://devexpress.github.io/testcafe/)
 
 ## 🛠 Utilities
+
 - [`Lodash` - JavaScript utility library delivering modularity, performance & extras](https://lodash.com/)
 - [`Underscore` - JavaScript library that provides a whole mess of useful functional programming](https://underscorejs.org/)
 - [`Joi` - The most powerful schema description language and data validator for JavaScript](https://github.com/sideway/joi)
@@ -58,6 +61,7 @@
 - [`RequireJS` - RequireJS is a JavaScript file and module loader](https://requirejs.org/)
 
 ## 🌈 Design System / UI Kit
+
 - [`Material-UI` - React components for faster and easier web development](https://material-ui.com/)
 - [`Tailwindcss` - A utility-first CSS framework](https://tailwindcss.com/)
 - [`Bulma` - CSS framework based on Flexbox](https://bulma.io/)
@@ -78,6 +82,7 @@
 - [`Papercss` - The less formal CSS framework](https://www.getpapercss.com/)
 
 ## 📈 Chart
+
 - [`Chartjs` - Simple yet flexible JavaScript charting for designers & developers](https://www.chartjs.org/)
 - [`D3` - JavaScript library for manipulating documents based on data](https://d3js.org/)
 - [`Apexchart` - Modern & Interactive Open-source Charts](https://apexcharts.com/)
@@ -96,6 +101,7 @@
 - [`Zingchart` - 50+ built-in chart types & modules](https://www.zingchart.com/)
 
 ## 🌱 Animation
+
 - [`React-spring` - components to life with simple spring animation primitives](https://www.react-spring.io/)
 - [`Framer Motion` - A production-ready motion library for React](https://www.framer.com/motion/)
 - [`Greensock` - Professional-grade JavaScript animation for the modern web](https://greensock.com/gsap/)
@@ -103,17 +109,18 @@
 - [`Animejs` - Anime.js is a lightweight JavaScript animation library with a simple, yet powerful API](https://animejs.com/)
 - [`Threejs` - 3D animations on the browser, using WebGL in an intuitive way](https://threejs.org/)
 - [`Mojs` - Screen density independent effects look good on any device](https://mojs.github.io/)
-- [`Swiperjs` -  Touch slider with hardware accelerated transitions](https://swiperjs.com/)
+- [`Swiperjs` - Touch slider with hardware accelerated transitions](https://swiperjs.com/)
 - [`Popmotion` - The animate function is less than 5kb, and every utility function is individually importable](https://popmotion.io/)
 - [`ScrollReveal` - Easily animating elements as they enter/leave the viewport](https://scrollrevealjs.org/)
 - [`HoverCss` - CSS3 powered hover effects](http://ianlunn.github.io/Hover/)
 - [`Typedjs` - Type your heart out, with Typed.js](https://mattboldt.com/demos/typed-js/)
 - [`React-typed` - A react wrapper for typed.js](https://github.com/ssbeefeater/react-typed)
 - [`Kutejs` - Developed with latest technology and modular design](https://thednp.github.io/kute.js/index.html)
-- [`Spicr` -  Component featuring multi-layer slider and carousel](https://thednp.github.io/spicr/)
+- [`Spicr` - Component featuring multi-layer slider and carousel](https://thednp.github.io/spicr/)
 - [`Animatecss` - Just-add-water CSS animations](https://animate.style/)
 
 ## ⛺ Template Engine
+
 - [`Liquidjs` - A simple, expressive and safe template engine](https://liquidjs.com/)
 - [`Mustache.js` - Minimal templating with {{mustaches}} in JavaScript](https://github.com/janl/mustache.js)
 - [`Handlebars` - Minimal templating on steroids](https://handlebarsjs.com/)
@@ -129,6 +136,7 @@
 - [`SquirrellyJS` - Powerful, lightweight, pluggable JS template engine](https://squirrelly.js.org/)
 
 ## 🖥 Server
+
 - [`Expressjs` - Fast, unopinionated, minimalist web framework for Node.js](https://expressjs.com/)
 - [`Koajs` - Koa is a new web framework designed by the team behind Express](https://koajs.com/)
 - [`Meteor` - Meteor is an open source platform for web, mobile, and desktop](https://www.meteor.com/)
@@ -136,7 +144,7 @@
 - [`PM2` - PM2 is a daemon process manager that will help you manage and keep your application online 24/7](https://pm2.keymetrics.io/)
 - [`Grpc` - Universal RPC framework](https://grpc.io/)
 - [`Async` - Async is a utility module JavaScript](http://caolan.github.io/async/)
-- [`Grunt ` - JavaScript Task Runner](https://gruntjs.com/)
+- [`Grunt` - JavaScript Task Runner](https://gruntjs.com/)
 - [`Socketio` - Realtime engine](https://socket.io/)
 - [`Cheerio` - Fast, flexible, and lean implementation of core jQuery designed specifically for the server](https://cheerio.js.org/)
 - [`Puppeteer` - Provides a high-level API to control Chrome or Chromium over the DevTools Protocol](https://pptr.dev/)
@@ -152,14 +160,15 @@
 - [`Body-parser` - Node.js body parsing middleware](https://github.com/expressjs/body-parser)
 
 ## 🔐 Security
+
 - [`Passport` - Simple, unobtrusive authentication for Node.js](http://www.passportjs.org/)
 - [`JSON Web Token` - Standard RFC 7519 method for representing claims securely between two parties](https://jwt.io/)
 - [`Accountsjs` - Fullstack authentication and accounts-management for Javascript](https://www.accountsjs.com/)
 - [`Helmet` - Express.js security with HTTP headers](https://helmetjs.github.io/)
 - [`Cryptojs` - JavaScript library of crypto standards](https://github.com/brix/crypto-js)
 
-
 ## 🗄 Database ORM and Query Builder
+
 - [`TypeORM` - TypeORM is an ORM that can run in NodeJS, Browser, Cordova, PhoneGap, Ionic, React Native](https://typeorm.io/)
 - [`Prisma` - Modern Database Access for TypeScript & Node.js](https://www.prisma.io/)
 - [`Objectionjs` - An SQL-friendly ORM for Node.js](https://vincit.github.io/objection.js/)
@@ -171,6 +180,8 @@
 - [`Mikro-orm` - TypeScript ORM for Node.js based on Data Mapper](https://mikro-orm.io/)
 
 ## 💻 Command Line Interface (CLI)
+
 - [`Commanderjs` - The complete solution for node.js command-line interfaces](https://github.com/tj/commander.js)
 - [`Oclif` - Create command line tools your users love](https://oclif.io/)
 - [`Hygen` - The scalable code generator that saves you time](http://www.hygen.io/)
+- [`Yeoman` - Yeoman helps you to kickstart new projects](https://yeoman.io/)
