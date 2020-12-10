@@ -32,6 +32,7 @@
 - [`Yup` - Dead simple Object schema validation](https://github.com/jquense/yup)
 - [`Fusejs` - Fuse.js is a powerful, lightweight fuzzy-search library, with zero dependencies](https://fusejs.io/)
 - [`Miragejs` - Create your API on your Frontend](https://miragejs.com/)
+- [`Mswjs` - API mocking of the next generation](https://mswjs.io/)
 - [`React Table` - Data tables for React](https://react-table.tanstack.com/)
 - [`React Hook Form` - Performant, flexible and extensible forms with easy-to-use validation](https://react-hook-form.com/)
 - [`Formik` - Form library for React and React Native](https://formik.org/)
@@ -57,7 +58,6 @@
 - [`Node-fetch` - A light-weight module that brings Fetch API to Node.js](https://github.com/node-fetch/node-fetch)
 - [`React Gesture` - Utility for component-tied mouse/touch gestures in React](https://github.com/pmndrs/react-use-gesture)
 - [`React Fullpage` - Create fullpage with easy, React.js wrapper for fullPage.js](https://github.com/alvarotrigo/react-fullpage)
-- [`Yeoman` - Yeoman helps you to kickstart new projects, prescribing best practices and tools](https://yeoman.io/)
 - [`RequireJS` - RequireJS is a JavaScript file and module loader](https://requirejs.org/)
 
 ## 🌈 Design System / UI Kit
