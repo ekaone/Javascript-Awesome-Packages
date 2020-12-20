@@ -118,6 +118,7 @@
 - [`Kutejs` - Developed with latest technology and modular design](https://thednp.github.io/kute.js/index.html)
 - [`Spicr` - Component featuring multi-layer slider and carousel](https://thednp.github.io/spicr/)
 - [`Animatecss` - Just-add-water CSS animations](https://animate.style/)
+- [`React Hot Toast` - Smoking hot React notifications](https://react-hot-toast.com/)
 
 ## ⛺ Template Engine
 
