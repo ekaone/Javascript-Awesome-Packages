@@ -8,6 +8,7 @@
 - [`Pullstate` - Simple state stores, retrieval anywhere in your React tree using hooks](https://lostpebble.github.io/pullstate/)
 - [`Jōtai` - Primitive and flexible state management for React](https://jotai.surge.sh/)
 - [`Valtio` - Valtio makes proxy-state simple for React and Vanilla](https://github.com/pmndrs/valtio)
+- [`React Tracked` - Optimize re-renders for useState/useReducer, React Redux, Zustand and others](https://react-tracked.js.org/)
 
 ## 🧪 Testing
 
