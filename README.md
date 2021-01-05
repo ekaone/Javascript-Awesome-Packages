@@ -9,6 +9,8 @@
 - [`Jōtai` - Primitive and flexible state management for React](https://jotai.surge.sh/)
 - [`Valtio` - Valtio makes proxy-state simple for React and Vanilla](https://github.com/pmndrs/valtio)
 - [`React Tracked` - Optimize re-renders for useState/useReducer, React Redux, Zustand and others](https://react-tracked.js.org/)
+- [`Immer` - Create the next immutable state by mutating the current one](https://immerjs.github.io/immer/)
+- [`Mutik` - A tiny (495B) immutable state management library based on Immer](https://github.com/jaredpalmer/mutik)
 
 ## 🧪 Testing
 
