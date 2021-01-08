@@ -2,6 +2,7 @@
 
 - [`Zustand` - A small, fast and scaleable bearbones state-management solution](https://zustand.surge.sh/)
 - [`Recoil` - Data-Flow Graph and Cross-App Observation](https://recoiljs.org/)
+- [`xoid` - Scalable, fine-grained, and minimal state-management library for React and vanilla JavaScript](https://github.com/onurkerimov/xoid)
 - [`Xstate` - JavaScript and TypeScript finite state machines and statecharts for the modern web](https://xstate.js.org/)
 - [`MobX` - Simple and scalable applying functional reactive programming (TFRP)](https://mobx.js.org/README.html)
 - [`Redux` - A Predictable State Container for JS Apps](https://redux.js.org/)
