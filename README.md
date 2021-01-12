@@ -64,6 +64,7 @@
 - [`React Fullpage` - Create fullpage with easy, React.js wrapper for fullPage.js](https://github.com/alvarotrigo/react-fullpage)
 - [`RequireJS` - RequireJS is a JavaScript file and module loader](https://requirejs.org/)
 - [`Prism-React-Renderer` - Renders highlighted Prism output to React (+ theming & vendored Prism)](https://github.com/FormidableLabs/prism-react-renderer)
+- [`React Live` - A flexible playground for live editing React components](https://github.com/FormidableLabs/react-live)
 
 ## 🌈 Design System / UI Kit
 
