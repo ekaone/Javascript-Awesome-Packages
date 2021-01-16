@@ -26,6 +26,16 @@
 - [`QUnit` - Easy-to-use JavaScript testing framework](https://qunitjs.com/)
 - [`Testcafe` - A Node.js tool to automate end-to-end web testing](https://devexpress.github.io/testcafe/)
 
+## 💽 Bundler
+
+- [`Parcel` - Blazing fast, zero configuration web application bundler](https://parceljs.org/)
+- [`Rollup` - Rollup is a module bundler for JavaScript](https://rollupjs.org/guide/en/)
+- [`Webpack` - Webpack is a static module bundler for modern JavaScript applications](https://webpack.js.org/)
+- [`Snowpack` - Snowpack is a lightning-fast frontend build tool, designed for the modern web](https://www.snowpack.dev/)
+- [`Terser` - JavaScript parser, mangler and compressor toolkit for ES6+](https://terser.org/)
+- [`Esbuild` - An extremely fast JavaScript bundler](https://esbuild.github.io/)
+- [`Uglify` - UglifyJS is a JavaScript compressor/minifier written in JavaScript](http://lisperator.net/uglifyjs/)
+
 ## 🛠 Utilities
 
 - [`Lodash` - JavaScript utility library delivering modularity, performance & extras](https://lodash.com/)
