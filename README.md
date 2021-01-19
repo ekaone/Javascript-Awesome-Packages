@@ -75,6 +75,7 @@
 - [`RequireJS` - RequireJS is a JavaScript file and module loader](https://requirejs.org/)
 - [`Prism-React-Renderer` - Renders highlighted Prism output to React (+ theming & vendored Prism)](https://github.com/FormidableLabs/prism-react-renderer)
 - [`React Live` - A flexible playground for live editing React components](https://github.com/FormidableLabs/react-live)
+- [`Got` - Human-friendly and powerful HTTP request library for Node.js](https://github.com/sindresorhus/got)
 
 ## 🌈 Design System / UI Kit
 
