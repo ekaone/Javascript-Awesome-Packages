@@ -184,6 +184,7 @@
 - [`Accountsjs` - Fullstack authentication and accounts-management for Javascript](https://www.accountsjs.com/)
 - [`Helmet` - Express.js security with HTTP headers](https://helmetjs.github.io/)
 - [`Cryptojs` - JavaScript library of crypto standards](https://github.com/brix/crypto-js)
+- [`Next Auth` - Authentication for Next.js](https://next-auth.js.org/)
 
 ## 🗄 Database ORM and Query Builder
 
