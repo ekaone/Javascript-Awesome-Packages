@@ -77,6 +77,10 @@
 - [`React Live` - A flexible playground for live editing React components](https://github.com/FormidableLabs/react-live)
 - [`Got` - Human-friendly and powerful HTTP request library for Node.js](https://github.com/sindresorhus/got)
 
+## 🌐 Browser
+
+- [` Local storage` - React hook that persists data in local storage](https://github.com/astoilkov/use-local-storage-state)
+
 ## 🌈 Design System / UI Kit
 
 - [`Material-UI` - React components for faster and easier web development](https://material-ui.com/)
