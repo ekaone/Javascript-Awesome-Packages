@@ -1,8 +1,6 @@
 <!-- mind you open an issue... 😀 -->
 
-
 [![javascript-awesome](https://res.cloudinary.com/ddjsyskef/image/upload/v1616891142/Github/mgnsrzyypt257hulvme0.png)](#)
-
 
 # `Javascript Awesome Packages`
 
@@ -10,13 +8,23 @@
 
 ## Contents
 
- - [State Management](#state-management)
- - [Usage](#interrobang-usage)
- - [Documentation](#books-documentation)
- - [How to contribute](#yum-how-to-contribute)
- - [License](#yum-how-to-contribute)
+- [State Management](#🚦-state-management)
+- [Testing](#🧪-testing)
+- [Bundler](#💽-bundler)
+- [Utilities](#🛠-utilities)
+- [Browser](#🌐-browser)
+- [Design System](#🌈-design-system)
+- [Chart](#📈-chart)
+- [Animation](#🌱-animation)
+- [Template Engine](#⛺-template-engine)
+- [Server](#🖥-server)
+- [Security](#🔐-security)
+- [Database ORM and Query Builder](#🗄-database-orm-and-query-builder)
+- [Command Line Interface](#💻-command-line-interface)
+- [How to contribute](#yum-how-to-contribute)
+- [License](#yum-how-to-contribute)
 
-## 🚦 State Management
+### 🚦 State Management
 
 - [`Zustand` - A small, fast and scaleable bearbones state-management solution](https://zustand.surge.sh/)
 - [`Recoil` - Data-Flow Graph and Cross-App Observation](https://recoiljs.org/)
@@ -31,7 +39,7 @@
 - [`Immer` - Create the next immutable state by mutating the current one](https://immerjs.github.io/immer/)
 - [`Mutik` - A tiny (495B) immutable state management library based on Immer](https://github.com/jaredpalmer/mutik)
 
-## 🧪 Testing
+### 🧪 Testing
 
 - [`Jest` - Delightful JavaScript Testing Framework with a focus on simplicity](https://jestjs.io/)
 - [`Chai` - BDD / TDD assertion library for node and the browser](https://www.chaijs.com/)
@@ -44,7 +52,7 @@
 - [`QUnit` - Easy-to-use JavaScript testing framework](https://qunitjs.com/)
 - [`Testcafe` - A Node.js tool to automate end-to-end web testing](https://devexpress.github.io/testcafe/)
 
-## 💽 Bundler
+### 💽 Bundler
 
 - [`Parcel` - Blazing fast, zero configuration web application bundler](https://parceljs.org/)
 - [`Rollup` - Rollup is a module bundler for JavaScript](https://rollupjs.org/guide/en/)
@@ -54,7 +62,7 @@
 - [`Esbuild` - An extremely fast JavaScript bundler](https://esbuild.github.io/)
 - [`Uglify` - UglifyJS is a JavaScript compressor/minifier written in JavaScript](http://lisperator.net/uglifyjs/)
 
-## 🛠 Utilities
+### 🛠 Utilities
 
 - [`Lodash` - JavaScript utility library delivering modularity, performance & extras](https://lodash.com/)
 - [`Underscore` - JavaScript library that provides a whole mess of useful functional programming](https://underscorejs.org/)
@@ -95,11 +103,11 @@
 - [`React Live` - A flexible playground for live editing React components](https://github.com/FormidableLabs/react-live)
 - [`Got` - Human-friendly and powerful HTTP request library for Node.js](https://github.com/sindresorhus/got)
 
-## 🌐 Browser
+### 🌐 Browser
 
 - [` Local storage` - React hook that persists data in local storage](https://github.com/astoilkov/use-local-storage-state)
 
-## 🌈 Design System / UI Kit
+### 🌈 Design System
 
 - [`Material-UI` - React components for faster and easier web development](https://material-ui.com/)
 - [`Tailwindcss` - A utility-first CSS framework](https://tailwindcss.com/)
@@ -120,7 +128,7 @@
 - [`Picnicss` - Lightweight and beautiful library](https://picnicss.com/)
 - [`Papercss` - The less formal CSS framework](https://www.getpapercss.com/)
 
-## 📈 Chart
+### 📈 Chart
 
 - [`Chartjs` - Simple yet flexible JavaScript charting for designers & developers](https://www.chartjs.org/)
 - [`D3` - JavaScript library for manipulating documents based on data](https://d3js.org/)
@@ -139,7 +147,7 @@
 - [`Amcharts` - JavaScript Charts & Maps](https://www.amcharts.com/)
 - [`Zingchart` - 50+ built-in chart types & modules](https://www.zingchart.com/)
 
-## 🌱 Animation
+### 🌱 Animation
 
 - [`React-spring` - components to life with simple spring animation primitives](https://www.react-spring.io/)
 - [`Framer Motion` - A production-ready motion library for React](https://www.framer.com/motion/)
@@ -159,7 +167,7 @@
 - [`Animatecss` - Just-add-water CSS animations](https://animate.style/)
 - [`React Hot Toast` - Smoking hot React notifications](https://react-hot-toast.com/)
 
-## ⛺ Template Engine
+### ⛺ Template Engine
 
 - [`Liquidjs` - A simple, expressive and safe template engine](https://liquidjs.com/)
 - [`Mustache.js` - Minimal templating with {{mustaches}} in JavaScript](https://github.com/janl/mustache.js)
@@ -175,7 +183,7 @@
 - [`JsRender` - Simple and intuitive, powerful and extensible, lightning fast](https://www.jsviews.com/#jsrender)
 - [`SquirrellyJS` - Powerful, lightweight, pluggable JS template engine](https://squirrelly.js.org/)
 
-## 🖥 Server
+### 🖥 Server
 
 - [`Expressjs` - Fast, unopinionated, minimalist web framework for Node.js](https://expressjs.com/)
 - [`Koajs` - Koa is a new web framework designed by the team behind Express](https://koajs.com/)
@@ -199,7 +207,7 @@
 - [`Cors` - Node.js CORS middleware](https://github.com/expressjs/cors)
 - [`Body-parser` - Node.js body parsing middleware](https://github.com/expressjs/body-parser)
 
-## 🔐 Security
+### 🔐 Security
 
 - [`Passport` - Simple, unobtrusive authentication for Node.js](http://www.passportjs.org/)
 - [`JSON Web Token` - Standard RFC 7519 method for representing claims securely between two parties](https://jwt.io/)
@@ -208,7 +216,7 @@
 - [`Cryptojs` - JavaScript library of crypto standards](https://github.com/brix/crypto-js)
 - [`Next Auth` - Authentication for Next.js](https://next-auth.js.org/)
 
-## 🗄 Database ORM and Query Builder
+### 🗄 Database ORM and Query Builder
 
 - [`TypeORM` - TypeORM is an ORM that can run in NodeJS, Browser, Cordova, PhoneGap, Ionic, React Native](https://typeorm.io/)
 - [`Prisma` - Modern Database Access for TypeScript & Node.js](https://www.prisma.io/)
@@ -220,7 +228,7 @@
 - [`Mongoosejs` - Elegant mongodb object modeling for node.js](https://mongoosejs.com/)
 - [`Mikro-orm` - TypeScript ORM for Node.js based on Data Mapper](https://mikro-orm.io/)
 
-## 💻 Command Line Interface (CLI)
+### 💻 Command Line Interface
 
 - [`Commanderjs` - The complete solution for node.js command-line interfaces](https://github.com/tj/commander.js)
 - [`Oclif` - Create command line tools your users love](https://oclif.io/)
@@ -234,7 +242,6 @@ Have an idea? Found a bug? See [how to contribute][contributing].
 ## :scroll: License
 
 [MIT][license] © [Eka Prasetia][website]
-
 
 [website]: https://www.ekaprasetia.com/
 [contributing]: https://github.com/ekaone/contribute
