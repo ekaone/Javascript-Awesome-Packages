@@ -8,9 +8,9 @@
 
 ## Contents
 
-- [State Management](#🚦-state-management)
-- [Testing](#🧪-testing)
-- [Bundler](#💽-bundler)
+- [State Management](#vertical_traffic_light-state-management)
+- [Testing](#droplet-testing)
+- [Bundler](#dvd-bundler)
 - [Utilities](#🛠-utilities)
 - [Browser](#🌐-browser)
 - [Design System](#🌈-design-system)
@@ -24,7 +24,7 @@
 - [How to contribute](#yum-how-to-contribute)
 - [License](#yum-how-to-contribute)
 
-### 🚦 State Management
+### :vertical_traffic_light: State Management
 
 - [`Zustand` - A small, fast and scaleable bearbones state-management solution](https://zustand.surge.sh/)
 - [`Recoil` - Data-Flow Graph and Cross-App Observation](https://recoiljs.org/)
@@ -39,7 +39,7 @@
 - [`Immer` - Create the next immutable state by mutating the current one](https://immerjs.github.io/immer/)
 - [`Mutik` - A tiny (495B) immutable state management library based on Immer](https://github.com/jaredpalmer/mutik)
 
-### 🧪 Testing
+### :droplet: Testing
 
 - [`Jest` - Delightful JavaScript Testing Framework with a focus on simplicity](https://jestjs.io/)
 - [`Chai` - BDD / TDD assertion library for node and the browser](https://www.chaijs.com/)
@@ -52,7 +52,7 @@
 - [`QUnit` - Easy-to-use JavaScript testing framework](https://qunitjs.com/)
 - [`Testcafe` - A Node.js tool to automate end-to-end web testing](https://devexpress.github.io/testcafe/)
 
-### 💽 Bundler
+### :dvd: Bundler
 
 - [`Parcel` - Blazing fast, zero configuration web application bundler](https://parceljs.org/)
 - [`Rollup` - Rollup is a module bundler for JavaScript](https://rollupjs.org/guide/en/)
