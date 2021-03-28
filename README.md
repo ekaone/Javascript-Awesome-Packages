@@ -11,7 +11,7 @@
 - [State Management](#vertical_traffic_light-state-management)
 - [Testing](#droplet-testing)
 - [Bundler](#dvd-bundler)
-- [Utilities](#hammer-utilities)
+- [Utilities](#hammer_and_wrench-utilities)
 - [Browser](#globe_with_meridians-browser)
 - [Design System](#rainbow-design-system)
 - [Chart](#chart-chart)
@@ -62,7 +62,7 @@
 - [`Esbuild` - An extremely fast JavaScript bundler](https://esbuild.github.io/)
 - [`Uglify` - UglifyJS is a JavaScript compressor/minifier written in JavaScript](http://lisperator.net/uglifyjs/)
 
-### :hammer: Utilities
+### :hammer_and_wrench: Utilities
 
 - [`Lodash` - JavaScript utility library delivering modularity, performance & extras](https://lodash.com/)
 - [`Underscore` - JavaScript library that provides a whole mess of useful functional programming](https://underscorejs.org/)
