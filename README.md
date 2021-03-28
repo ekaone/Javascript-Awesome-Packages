@@ -1,3 +1,21 @@
+<!-- mind you open an issue... 😀 -->
+
+
+[![javascript-awesome](https://res.cloudinary.com/ddjsyskef/image/upload/v1616891142/Github/mgnsrzyypt257hulvme0.png)](#)
+
+
+# `Javascript Awesome Packages`
+
+[![Ask me anything](https://img.shields.io/badge/ask%20me-anything-orange)][ama]
+
+## Contents
+
+ - [State Management](#state-management)
+ - [Usage](#interrobang-usage)
+ - [Documentation](#books-documentation)
+ - [How to contribute](#yum-how-to-contribute)
+ - [License](#yum-how-to-contribute)
+
 ## 🚦 State Management
 
 - [`Zustand` - A small, fast and scaleable bearbones state-management solution](https://zustand.surge.sh/)
@@ -208,3 +226,17 @@
 - [`Oclif` - Create command line tools your users love](https://oclif.io/)
 - [`Hygen` - The scalable code generator that saves you time](http://www.hygen.io/)
 - [`Yeoman` - Yeoman helps you to kickstart new projects](https://yeoman.io/)
+
+## :yum: How to contribute
+
+Have an idea? Found a bug? See [how to contribute][contributing].
+
+## :scroll: License
+
+[MIT][license] © [Eka Prasetia][website]
+
+
+[website]: https://www.ekaprasetia.com/
+[contributing]: https://github.com/ekaone/contribute
+[license]: https://en.wikipedia.org/wiki/MIT_License
+[ama]: https://github.com/ekaone/ama
