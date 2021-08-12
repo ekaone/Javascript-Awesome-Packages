@@ -243,7 +243,7 @@ Have an idea? Found a bug? See [how to contribute][contributing].
 
 [MIT][license] © [Eka Prasetia][website]
 
-[website]: https://www.ekaprasetia.com/
+[website]: https://www.ekapm.dev/
 [contributing]: https://github.com/ekaone/contribute
 [license]: https://en.wikipedia.org/wiki/MIT_License
 [ama]: https://github.com/ekaone/ama
