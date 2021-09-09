@@ -166,6 +166,7 @@
 - [`Spicr` - Component featuring multi-layer slider and carousel](https://thednp.github.io/spicr/)
 - [`Animatecss` - Just-add-water CSS animations](https://animate.style/)
 - [`React Hot Toast` - Smoking hot React notifications](https://react-hot-toast.com/)
+- [`React FAST Marquee` - A lightweight React component that utilizes the power of CSS animations to create silky smooth marquees](https://www.react-fast-marquee.com/)
 
 ### :steam_locomotive: Template Engine
 
