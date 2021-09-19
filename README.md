@@ -167,6 +167,7 @@
 - [`Animatecss` - Just-add-water CSS animations](https://animate.style/)
 - [`React Hot Toast` - Smoking hot React notifications](https://react-hot-toast.com/)
 - [`React FAST Marquee` - A lightweight React component that utilizes the power of CSS animations to create silky smooth marquees](https://www.react-fast-marquee.com/)
+- [`React Flip Move` - Animating a list of items when the list’s order changes](https://joshwcomeau.github.io/react-flip-move/)
 
 ### :steam_locomotive: Template Engine
 
