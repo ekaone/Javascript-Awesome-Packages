@@ -168,6 +168,8 @@
 - [`React Hot Toast` - Smoking hot React notifications](https://react-hot-toast.com/)
 - [`React FAST Marquee` - A lightweight React component that utilizes the power of CSS animations to create silky smooth marquees](https://www.react-fast-marquee.com/)
 - [`React Flip Move` - Animating a list of items when the list’s order changes](https://joshwcomeau.github.io/react-flip-move/)
+- [`AutoAnimate` - Add motion to your apps with a single line of code](https://auto-animate.formkit.com/)
+- [`AnimXYZ` - composable CSS animation toolkit](https://animxyz.com/)
 
 ### :steam_locomotive: Template Engine
 
