@@ -170,6 +170,7 @@
 - [`React Flip Move` - Animating a list of items when the list’s order changes](https://joshwcomeau.github.io/react-flip-move/)
 - [`AutoAnimate` - Add motion to your apps with a single line of code](https://auto-animate.formkit.com/)
 - [`AnimXYZ` - composable CSS animation toolkit](https://animxyz.com/)
+- [`WowJS` - Reveal Animations When You Scroll](https://wowjs.uk/)
 
 ### :steam_locomotive: Template Engine
 
