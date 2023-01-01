@@ -54,6 +54,7 @@
 
 ### :dvd: Bundler
 
+- [`Turbo` - Turbo is an incremental bundler and build system](https://turbo.build/)
 - [`Parcel` - Blazing fast, zero configuration web application bundler](https://parceljs.org/)
 - [`Rollup` - Rollup is a module bundler for JavaScript](https://rollupjs.org/guide/en/)
 - [`Webpack` - Webpack is a static module bundler for modern JavaScript applications](https://webpack.js.org/)
@@ -171,6 +172,7 @@
 - [`AutoAnimate` - Add motion to your apps with a single line of code](https://auto-animate.formkit.com/)
 - [`AnimXYZ` - composable CSS animation toolkit](https://animxyz.com/)
 - [`WowJS` - Reveal Animations When You Scroll](https://wowjs.uk/)
+- [`Floating UI` - A JavaScript library for anchor positioning](https://floating-ui.com/)
 
 ### :steam_locomotive: Template Engine
 
