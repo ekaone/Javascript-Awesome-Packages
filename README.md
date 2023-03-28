@@ -128,6 +128,8 @@
 - [`Purecss` - A set of small, responsive CSS modules](https://purecss.io/)
 - [`Picnicss` - Lightweight and beautiful library](https://picnicss.com/)
 - [`Papercss` - The less formal CSS framework](https://www.getpapercss.com/)
+- [`Tamagui` - Styles React Native and Web Consistency](https://tamagui.dev/)
+- [`Headless UI` - Completely unstyled, fully accessible UI components](https://headlessui.com/)
 
 ### :chart: Chart
 
