@@ -1,7 +1,4 @@
 <!-- mind you open an issue... 😀 -->
-
-[![javascript-awesome](https://res.cloudinary.com/ddjsyskef/image/upload/v1616891142/Github/mgnsrzyypt257hulvme0.png)](#)
-
 # `Javascript Awesome Packages`
 
 [![Ask me anything](https://img.shields.io/badge/ask%20me-anything-orange)][ama]
