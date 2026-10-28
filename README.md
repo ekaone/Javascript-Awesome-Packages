@@ -221,6 +221,7 @@
 - [`Helmet` - Express.js security with HTTP headers](https://helmetjs.github.io/)
 - [`Cryptojs` - JavaScript library of crypto standards](https://github.com/brix/crypto-js)
 - [`Next Auth` - Authentication for Next.js](https://next-auth.js.org/)
+- [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
 
 ### :newspaper: Database ORM and Query Builder
 
